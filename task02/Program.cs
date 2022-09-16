@@ -15,12 +15,14 @@ if (num1 > num2)
 
 {
     Console.WriteLine( " наибольшее число " + num1);
+    Console.WriteLine( " наименьшее число " + num2);
 }
 
 else if (num2 > num1)
 
 {
     Console.WriteLine(" наибольшее число " + num2);
+    Console.WriteLine( " наименьшее число " + num1);
 }
 
 else
